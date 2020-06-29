@@ -10,5 +10,5 @@ python train_image_MeanTeacher88.4.py --dset image-clef --method CDAN+MT+cent+VA
 
 result:
 ![image](https://raw.githubusercontent.com/zxcvbnmloveu/RBDA-master/master/clef.png)
-![image](https://raw.githubusercontent.com/zxcvbnmloveu/RBDA-master/master/office31.png)
+![image](https://github.com/zxcvbnmloveu/RBDA-master/blob/master/office31.png?raw=true)
 
